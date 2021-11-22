@@ -2,11 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.exe
 
 # C extensions
 *.so
 
 # Distribution / packaging
+.idea
+cmake-build-debug
 .Python
 build/
 develop-eggs/
@@ -127,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+CMakeLists.txt
