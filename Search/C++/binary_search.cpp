@@ -2,7 +2,7 @@
 // Created by Gabriel on 22/11/2021.
 //
 #include <iostream>
-#include "binary_search.h"
+#include "binary_search.hpp"
 
 using namespace std;
 

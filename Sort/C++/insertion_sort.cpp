@@ -1,5 +1,5 @@
 #include <iostream>
-#include "insertion_sort.h"
+#include "insertion_sort.hpp"
 
 using namespace std;
 

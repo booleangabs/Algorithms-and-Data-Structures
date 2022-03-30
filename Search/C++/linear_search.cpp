@@ -2,7 +2,7 @@
 // Created by Gabriel on 22/11/2021.
 //
 #include <iostream>
-#include "linear_search.h"
+#include "linear_search.hpp"
 
 using namespace std;
 
